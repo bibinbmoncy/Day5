@@ -1,0 +1,18 @@
+.container{
+    
+    border-color:rgba(236, 227, 227, 0.699);
+    border-width: 5px;
+    border-style: solid;
+    background-color: rgb(103, 115, 251);
+
+    
+
+}
+
+
+div {
+    width: 700px;
+    padding: 50px;
+    margin: 350px;
+  }
+    
